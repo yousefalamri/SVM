@@ -1,2 +1,2 @@
 # SVM
- Support Vector Machine
+This is a script that runs the support vector machine both is the primal and dual domain
